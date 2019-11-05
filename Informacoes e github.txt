@@ -1,13 +1,9 @@
 Informações do projeto:
 - Integrantes: 
 	Bruno Osse Brigide	RA: 22.119.047-3
-	Vinicius Souza Barbosa	RA: 22.119.000-0
+	Vinicius Souza Barbosa	RA: 22.119.071-3
 
-- Desenvolvido em windows 64bit porém utilizando pacote da iup e compilador 32bit
-
-- A pasta que contem a interface ultrapassa o limite de tamanho do moodle (8MB),
-  por isso so enviamos apenas o codigo fonte e este arquivo.
-  Arquivo do projeto completo com Iup -> (link drive)
+- Desenvolvido em windows 10 64bit porém utilizando pacote da iup estatico e compilador 32bit
 
 - Funcoes adicionais:
 	1. Sistema de criação de contas (possibilidade de criar mais de uma conta)
@@ -15,5 +11,5 @@ Informações do projeto:
 	3. Sistema de poupanca (rende de mes em mes a partir da ultima movimentação da poupança)
 	4. Uso de arquivos (salvar informacoes permanentemente)
 
-Link de Invite do repositório Git:
-(link github)
+Link do repositório Git:
+https://github.com/brigide/devalg---projeto
